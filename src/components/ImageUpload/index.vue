@@ -23,8 +23,8 @@
 <script>
 import COS from 'cos-js-sdk-v5'
 var cos = new COS({
-  SecretId: 'AKIDtZy6sOfO0OUJuEJ8itmPkoc9OAgvtZx4', // 身份识别 ID
-  SecretKey: 'sSlmZ5PRBeqlPmre8MK1SbT9X3NPBhxv' // 身份密钥
+  SecretId: 
+  SecretKey: 
 })
 export default {
   data() {
